@@ -19,7 +19,7 @@ Then, perform block coding and execute it to see the ADDI blocks operate in real
 |Seungyeon JI|
 |Heeyun HEO|
 |Jiwoo BYUN|
-|A Lim Han|
+|A Lim HAN|
 
 <h1>:gear: Environment Setting</h1>
 <hr/>
