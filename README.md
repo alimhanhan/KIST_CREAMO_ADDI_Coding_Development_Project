@@ -1,9 +1,9 @@
 <h1>ADDI AI Coding </h1>
-<hr/>
+
 Block coding application utilizing ADDI blocks
 <br/><br/>
 <h1> 📱 Project Introduction </h1>
-<hr/>
+
 Connect Addi blocks via Bluetooth. <br/>
 Then, perform block coding and execute it to see the ADDI blocks operate in real-time.
 <br/><br/>
